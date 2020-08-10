@@ -1,0 +1,7 @@
+name: causal
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
